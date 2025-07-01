@@ -1,2 +1,5 @@
+Hello, this is a message from my cloned repository!
+
+notepad greetings.txt
 notepad greetings.txt
 Hello, this is a message from my cloned repository!
